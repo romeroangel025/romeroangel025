@@ -1,6 +1,6 @@
 # 💫 About Me:
 Técnico en electrónica, estudiante de Ing. electrónica hasta 2 año luego me di cuenta de que no era lo que realmente quería, y comencé a hacer cursos de programación (desarrollo fullstack Java web y Node,express,Mysql,React).
- Actualmente estoy cursando la tecnicatura en programación mientras sigo formándome a mí mismo 
+ Actualmente estoy cursando la tecnicatura universitaria en programación mientras sigo aprendiendo cosas que me interesan.
 
 
 ## 🌐 Socials:
